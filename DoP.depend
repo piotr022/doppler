@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1523797689 source:/home/piotr/Documents/cppx/DoP/main.cpp
+	<iostream>
+	"wave.h"
+
+1523798025 source:/home/piotr/Documents/cppx/DoP/src/wave.cpp
+	"wave.h"
+
+1523797982 /home/piotr/Documents/cppx/DoP/include/wave.h
+
